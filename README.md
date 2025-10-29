@@ -27,4 +27,9 @@ This will have a rounded bubble-like GUI
 - No inappropriate messages, pictographs, etc.
 
 
-Website Requirements:
+## Want to add:
+    Account creation with email
+    Able to favorite "bubbls"
+    Able to like bubbls (More likes, bigger the bubble)
+    Pop bubbl feature (Owner of bubbl could pop it)
+    ...
