@@ -32,4 +32,16 @@ This will have a rounded bubble-like GUI
     Able to favorite "bubbls"
     Able to like bubbls (More likes, bigger the bubble)
     Pop bubbl feature (Owner of bubbl could pop it)
+
+    Create a population created AI chat-bot
+    IMPORTANT
+        Want to create a mass-user interactive AI bot that grows the more people chats/converses with each other
+        This NEEDS user confirmation that the website can collect their chat data
+        Add a confirmation after the login screen, that's unskippable with the details
     ...
+
+
+## Resouces:
+    https://www.youtube.com/watch?v=ZbX4Ok9YX94
+
+    etc...
